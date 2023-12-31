@@ -10,7 +10,7 @@ export const App = () => {
             <Avatar />
             <div className="data">
                 <Intro />
-                <SkillList colors />
+                <SkillList />
             </div>
         </div>
     );
